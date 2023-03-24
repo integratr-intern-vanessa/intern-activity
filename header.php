@@ -1,3 +1,7 @@
+<?php
+include_once("connect.php");
+
+?>
 <!doctype html>
 <html lang="en">
   <head>
@@ -18,16 +22,16 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="http://localhost/activities/index.php">Home</a>
+          <a class="nav-link active" aria-current="page" href="http://localhost/internal-activity/index.php">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="http://localhost/activities/person.php">Persons</a>
+          <a class="nav-link" href="http://localhost/internal-activity/person.php">Persons</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="http://localhost/activities/products.php">Products</a>
+          <a class="nav-link" href="http://localhost/internal-activity/products.php">Products</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="http://localhost/activities/order.php">Orders</a>
+          <a class="nav-link" href="http://localhost/internal-activity/order.php">Orders</a>
         </li>
         
       </ul>
