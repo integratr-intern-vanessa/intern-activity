@@ -28,7 +28,7 @@ include_once("connect.php");
           <a class="nav-link" href="http://localhost/internal-activity/person.php">Persons</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="http://localhost/internal-activity/products.php">Products</a>
+          <a class="nav-link" href="http://localhost/internal-activity/product.php">Products</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="http://localhost/internal-activity/order.php">Orders</a>
