@@ -1,6 +1,6 @@
 <?php include('header.php') ?>
     <div class="container">
-    <a class = "btn btn-primary"href="http://localhost/internal-activity/person/add.php">Add Product</a>
+    <a class = "btn btn-primary"href="http://localhost/intern-activity/person/add.php">Add Product</a>
     
     <?php
     $query = $conn->query("SELECT * FROM products");
